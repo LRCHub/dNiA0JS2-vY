@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "モエチャッカファイア",
+  "base_artist": "mafumafu",
+  "createdAt": "2025-12-24T03:00:02.364273Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モエチャッカファイア",
+      "artist": "エレン・ジョー(CV:若山詩音)",
+      "has_synced": true,
+      "path": "select/01_モエチャッカファイア_エレン・ジョー(CV_若山詩音).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モエチャッカファイア",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_モエチャッカファイア_まふまふ.txt"
+    }
+  ]
+}
